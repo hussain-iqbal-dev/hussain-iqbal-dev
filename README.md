@@ -1,46 +1,46 @@
 ## 👋 Hi, I'm Iqbal Hussain
 
-🎯 **Junior Full Stack Developer**  
-💻 Working primarily with **JavaScript, React, Node.js, Express, and MongoDB**
+🎯 Junior Full-Stack Developer  
+💻 Building real-world web applications using JavaScript, React, Node.js, Express, and MongoDB
 
 ---
 
-### 🚧 Profile Status
-This GitHub profile is currently **under active development**.
+### 🚀 Featured Project
 
-I am:
-- Rebuilding my portfolio from scratch
-- Developing clean, well-structured full stack projects
-- Preparing my profile for professional opportunities
+🔹 **Job Application Tracker (MERN Stack)**  
+A full-stack application to manage job applications, track progress, and organize job search workflow.
 
-Public repositories will be added soon.
+👉 Live Demo: https://job-application-tracker-hussain-iqbal-dev.vercel.app  
+👉 GitHub Repo: https://github.com/hussain-iqbal-dev/job-application-tracker  
 
 ---
 
-### 🛠️ Core Technologies
-- **Frontend:** JavaScript, React, HTML, CSS, Tailwind CSS  
+### 🌐 Portfolio
+
+🔗 https://hussain-iqbal-dev.vercel.app
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, SQL (basic)  
+- **Database:** MongoDB  
 - **Tools:** Git, GitHub, Vercel, Render  
 
 ---
 
 ### 🎓 Education
-- **BS Software Engineering** — Pakistan  
-- **MS Management with Digital Marketing** — BPP University, London *(ongoing)*
 
----
-
-### 🌐 Portfolio
-🔗 Portfolio website (currently hosted on Vercel free tier):  
-**https://portfolio-dev-iqbal05.vercel.app**
+- BS Software Engineering  
+- MSc Management with Digital Marketing — BPP University (ongoing)
 
 ---
 
 ### 📫 Contact
-- **Email:** hussain.iqbal.dev@gmail.com  
+
+- Email: hussain.iqbal.dev@gmail.com  
 
 ---
 
-> _This profile will be updated with completed projects and detailed documentation._
-
+> Currently building more full-stack projects to strengthen my portfolio.
